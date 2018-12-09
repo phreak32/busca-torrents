@@ -1,2 +1,2 @@
 # busca-torrents
-prueba de branch
+/root/.local/share/virtualenvs/root-BuDEOXnJ/bin/python3 /home/pi/bustorrent.py
